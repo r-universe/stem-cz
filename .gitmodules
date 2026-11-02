@@ -1,5 +1,11 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/stem-cz/stem-cz.r-universe.dev
 	branch = HEAD
+[submodule "spreadview"]
+	path = spreadview
+	url = https://github.com/alesvomacka/spreadview
+[submodule "stemtools"]
+	path = stemtools
+	url = https://github.com/stem-cz/stemtools
+	branch = *release
