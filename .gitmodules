@@ -8,4 +8,4 @@
 [submodule "stemtools"]
 	path = stemtools
 	url = https://github.com/stem-cz/stemtools
-	branch = v0.1.3
+	branch = v0.2.2
